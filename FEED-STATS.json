@@ -1,0 +1,25 @@
+{
+  "generated_at": "2026-11-09T20:26:17+08:00",
+  "schema_version": "2.4",
+  "publisher": "MOSSRIVER",
+  "aggregator": "Judge.me",
+  "input_rows": 7418,
+  "selected_published": 7414,
+  "gmc_index_products": 200,
+  "stats": {
+    "total": 7414,
+    "matched_gmc": 5554,
+    "source:wizard": 7411,
+    "collection:omitted": 7411,
+    "unmatched_gmc": 1860,
+    "source:web": 1,
+    "collection:unsolicited": 3,
+    "source:judge-me": 2
+  },
+  "out": "/workspace/growth/google-reviews-20261109/product-reviews.xml",
+  "notes": [
+    "is_verified_purchase=false for Judge.me verified in {not-yet,nothing}",
+    "collection_method omitted for wizard/CSV imports (no honest schema value)",
+    "Google policy: do not syndicate reviews from other sources — see FEED-REPORT"
+  ]
+}
